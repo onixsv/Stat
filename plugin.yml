@@ -1,0 +1,9 @@
+name: Stat
+author: alvin0319
+main: alvin0319\Stat\Stat
+version: 1.0.0
+api: 4.0.0
+
+permissions:
+  stat.command:
+    default: true
